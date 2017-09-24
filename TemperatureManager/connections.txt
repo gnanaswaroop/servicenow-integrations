@@ -1,0 +1,4 @@
+Connections
+
+DH11 - 5v, GND, D3
+MAX7219 - 3.3V, GND, DIN - D7, CS - D4, CLK - D5
