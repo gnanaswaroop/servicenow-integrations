@@ -2,3 +2,8 @@ Connections
 
 DH11 - 5v, GND, D3
 MAX7219 - 3.3V, GND, DIN - D7, CS - D4, CLK - D5
+RELAY - IN D1, GND, VCC - 5V
+RELAY - OUT - RED + BLACK
+MOTOR -  Motor +ve -> Relay NC or NO
+					  Motor -ve -> External Power source GND
+						External Power Source +ve -> Relay COM/GND
